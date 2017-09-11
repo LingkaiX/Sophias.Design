@@ -1,3 +1,5 @@
 # Sophias.Design
 
-From Sophia
+From Sophia, Simon
+
+不要删掉我的名字！
