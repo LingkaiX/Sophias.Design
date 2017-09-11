@@ -1,3 +1,3 @@
 # Sophias.Design
 
-From Sophia, Simon
+From Sophia
