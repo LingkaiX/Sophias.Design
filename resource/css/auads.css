@@ -91,6 +91,8 @@ h2:after {
     margin-bottom: 15px;
     margin-top: 15px;
     border-radius: 10px;
+    -webkit-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.2);
     word-spacing: 4px;
     letter-spacing: 1px;
     font-size: 20px;
@@ -127,6 +129,8 @@ h2:after {
 .ad-contact {
     padding: 15px 20px 15px 20px;
     border-radius: 10px;
+    -webkit-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.2);
     background-color: #fff;
     margin-bottom: 20px;
     color: #0582d0;
@@ -153,6 +157,8 @@ h2:after {
 
 .information {
     border-radius: 10px;
+    -webkit-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.2);
     background-color: #fff;
     color: #000;
     word-spacing: 5px;
